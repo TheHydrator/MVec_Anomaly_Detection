@@ -3,9 +3,6 @@
 **Industry 4.0 Quality Control System**  
 Detecting unseen manufacturing defects using only normal (defect-free) samples.
 
-![Project Banner](https://via.placeholder.com/800x300/1e3a8a/ffffff?text=Zero-Shot+Anomaly+Detection)  
-*(Replace with actual project diagram/screenshot if available)*
-
 ## Overview
 
 Global manufacturing loses **$1.3 trillion annually** due to quality failures. Traditional supervised defect detection fails in real-world scenarios because defects are extremely rare (<1% of production) and new defect types constantly appear.
